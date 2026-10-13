@@ -795,7 +795,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Sato Hub MCP connector](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents)
   🔓 - Search a scored index of crypto-agent tooling, then preflight a repo, package, endpoint or token.
 - [SHIP](https://letsship.ai) `https://mcp.letsship.ai/mcp`
-  [![SHIP MCP server](https://glama.ai/mcp/servers/ai.letsship/ship/badge)](https://glama.ai/mcp/connectors/ai.letsship/ship)
+  [![SHIP MCP connector](https://glama.ai/mcp/connectors/ai.letsship/ship/badges/score.svg)](https://glama.ai/mcp/connectors/ai.letsship/ship)
   🔐 - Assign Linear, Jira or GitHub issues to an AI coding agent team that plans, builds, reviews and tests pull requests.
 - [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
   [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
